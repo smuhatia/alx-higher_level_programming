@@ -2,6 +2,6 @@
 import hidden_4
 
 if __name__ == "__main__":
-	for name in dir(hidden_4):
-		if not name.startswith("__"):
-			print("{:s}".format(name))
+    for name in dir(hidden_4):
+        if not name.startswith("__"):
+            print("{:s}".format(name))
