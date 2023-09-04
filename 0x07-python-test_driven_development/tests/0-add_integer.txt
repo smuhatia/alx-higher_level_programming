@@ -23,7 +23,7 @@ This is a test file for task 0-add_integer
 """Execeptions"""
 
 """when a is a string"""
->>> add_integer("ven", 5)
+>>> add_integer("shawn", 5)
 Traceback (most recent call last):
 	...
 TypeError: a must be an integer
